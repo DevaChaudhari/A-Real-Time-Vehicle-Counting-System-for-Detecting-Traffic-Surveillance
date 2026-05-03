@@ -19,3 +19,12 @@ Thumbs.db
 *.tmp
 *.bak
 *~
+
+# Large model files and videos
+*.weights
+*.caffemodel
+*.avi
+*.mp4
+
+# Secrets
+a.json
