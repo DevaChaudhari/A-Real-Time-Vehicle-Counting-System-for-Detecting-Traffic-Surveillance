@@ -2,6 +2,17 @@
 
 This is a Java web application built as an Eclipse dynamic web project. It is designed for real-time vehicle counting and traffic surveillance.
 
+## Description
+
+This project provides a web-based system for traffic monitoring and vehicle counting. It includes:
+
+- user authentication and session management
+- file upload and server-side processing
+- administrative dashboards and reporting pages
+- support for web resources such as JSP, HTML, CSS, and JavaScript
+
+The application is intended to run in a servlet container like Apache Tomcat and process traffic data for surveillance use cases.
+
 ## Project Structure
 
 - `src/` - Java source code for servlet controllers, utilities, login, and file handling
